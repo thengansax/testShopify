@@ -24,8 +24,8 @@
   transition: all 0.1s linear;
 }
 .item:hover{
+  background-color: black;
   opacity: 0.5;
-
 }
 .item>img{
   width: 100%;
