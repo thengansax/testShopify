@@ -49,7 +49,7 @@
   padding-top: 10px;
   text-align: center;
   position: absolute;
-  top: 50%;
+  top: 10%;
   right: 50%;
   transform: translate(50%, -50%);
   display: none;
@@ -67,6 +67,7 @@
 .buy:hover{
   background-color: white;
   color: black;
+  top: 50%;
 }
 .item:hover>.bgm {
   display: block;
