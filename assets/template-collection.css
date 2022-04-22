@@ -62,7 +62,7 @@
 /* //hehess */
 .item:hover>.buy {
   display: block;
-  transform: translateY(50px);
+  transform: translateY(10px);
 }
 .buy:hover{
   background-color: white;
