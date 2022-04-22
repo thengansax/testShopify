@@ -52,13 +52,13 @@
   top: 50%;
   right: 50%;
   transform: translate(50%, -50%);
-  display: block;
+  display: none;
   z-index: 5;
 }
 
 .item:hover>.buy {
   display: block;
-  z-index: 1;
+
 }
 .item:hover>.bgm {
   display: block;
