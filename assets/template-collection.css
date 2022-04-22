@@ -56,7 +56,7 @@
   z-index: 0;
 }
 
-.item:hover>.bgm {
+.item:hover>.buy {
   display: block;
   z-index: 1;
 }
