@@ -63,7 +63,6 @@
 .item:hover>.buy {
   display: block;
   /* transform: translateY(10px); */
-  transform: translateX(10px);
 }
 .buy:hover{
   background-color: white;
