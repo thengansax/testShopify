@@ -15,8 +15,9 @@
   width: 100%;
   display: flex;
   gap: 10px;
-  height: 700px;
-  margin: 0 auto !important;
+ 
+  justify-content: center;
+  align-items: center;
 }
 .left{
   width: 60%;
