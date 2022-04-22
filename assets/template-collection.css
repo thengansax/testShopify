@@ -35,7 +35,7 @@
   height: 200px;
   display: none;
 }
-.item:hover >.item::before{
+.item::before:hover{
   display: unset;
 }
 
