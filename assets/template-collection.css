@@ -20,6 +20,12 @@
 .content>.item{
   width: 23%;
   height: 200px;
+  cursor: pointer;
+  transition: all 0.1s linear;
+}
+.item:hover{
+  opacity: 0.5;
+
 }
 .item>img{
   width: 100%;
