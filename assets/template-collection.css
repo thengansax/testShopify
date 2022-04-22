@@ -20,6 +20,10 @@
   width: 25%;
   height: 200px;
 }
+.item>img{
+  width: 100%;
+  
+}
 .collection .loading-overlay {
   top: 0;
   right: 0;
