@@ -37,6 +37,7 @@
 }
 .item:hover ~.item::before{
   display: block; 
+  z-index: 1;
 }
 
 .item>img{
