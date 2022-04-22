@@ -35,8 +35,8 @@
   height: 200px;
   display: none;
 }
-.item:hover ~.item::before{
-  display: block;
+.item:hover >.item::before{
+  display: unset;
 }
 
 .item>img{
