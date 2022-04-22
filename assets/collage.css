@@ -23,6 +23,7 @@
 .right{
   display: flex;
   flex-direction: column;
+  gap: 10px;
   width: 60%;
   height: 100%;
 }
