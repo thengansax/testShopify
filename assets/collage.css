@@ -10,7 +10,22 @@
 .collage__item > * {
   width: 100%;
 }
-
+.content
+{
+  width: 100%;
+  display: flex;
+  gap: 10px;
+}
+.left{
+  width: 60%;
+  height: 100%;
+}
+.right{
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  height: 100%;
+}
 @media screen and (max-width: 749px) {
   .collage {
     grid-column-gap: var(--grid-mobile-horizontal-spacing);
