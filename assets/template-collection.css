@@ -62,12 +62,12 @@
 /* //hehes */
 .item:hover>.buy {
   display: block;
-
+  top: 50%;
 }
 .buy:hover{
   background-color: white;
   color: black;
-  top: 50%;
+  
 }
 .item:hover>.bgm {
   display: block;
