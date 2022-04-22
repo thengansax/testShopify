@@ -33,7 +33,7 @@
   opacity: 0.5;
   width: 100%;
   height: 200px;
-  display: none;
+  display: block;
 }
 .item:hover >.bgm{
   display: block; 
