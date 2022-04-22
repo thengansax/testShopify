@@ -10,7 +10,16 @@
     margin-bottom: 1.5rem;
   }
 }
-
+.content
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.content>.item{
+  width: 25%;
+  height: 200px;
+}
 .collection .loading-overlay {
   top: 0;
   right: 0;
