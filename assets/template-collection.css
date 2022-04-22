@@ -49,7 +49,7 @@
   padding-top: 10px;
   text-align: center;
   position: absolute;
-  top: 50%;
+  top: 10%;
   right: 50%;
   transform: translate(50%, -50%);
   display: none;
@@ -63,6 +63,7 @@
 .item:hover>.buy {
   display: block;
   /* transform: translateY(10px); */
+  transform: translateX(10px);
 }
 .buy:hover{
   background-color: white;
