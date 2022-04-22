@@ -55,7 +55,9 @@
   display: none;
   z-index: 5;
   transition: all 0.1s linear;
+  border-radius: 10px;
 }
+
 /* //hehe */
 .item:hover>.buy {
   display: block;
