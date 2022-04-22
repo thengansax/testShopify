@@ -54,11 +54,16 @@
   transform: translate(50%, -50%);
   display: none;
   z-index: 5;
+  transition: all 0.1s linear;
 }
 /* //hehe */
 .item:hover>.buy {
   display: block;
 
+}
+.buy:hover{
+  background-color: white;
+  color: black;
 }
 .item:hover>.bgm {
   display: block;
